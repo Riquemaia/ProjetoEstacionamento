@@ -1,0 +1,14 @@
+Fonte:http://nepos.com.br/
+
+Módulo Concentrador.
+A solução permite centralizar, em um servidor denominado CONCENTRADOR, todas as informações das transações ocorridas nos estacionamentos participantes da integração. Esse servidor disponibiliza, via WebService, uma interface que possibilita a integração com sistema ERP do CONTRATANTE.
+Car Pooling.
+Permite que o empreendimento crie diversos grupos de vagas, defina uma quantidade específica de vagas a cada um deles e determine quais serão os cartões credenciados/mensalistas que as compartilharão.
+Integração Academia.
+Aplicativo que controla o acesso e o período de utilização do estacionamento de alunos que frequentam academias dentro de Shopping Centers. Permite atribuir períodos (horas) de isenção que podem ser utilizados de uma única vez ou em várias vezes desde que no mesmo dia, com a obrigatoriedade de registro do cartão do aluno na entrada e saída da academia.
+Selo Desconto/Convênio
+Aplicativo que garante uma operação eficiente e segura na concessão de descontos através da leitura de selos com código de barras, podendo ser configurada a restrição do vínculo de um único selo por transação.
+Módulo RPS e NFe.
+Aplicativo que emite a NFe e que realiza, no banco de dados, a busca dos arquivos individuais das transações de validação, gerando um novo arquivo de acordo com o layout especificado por cada município para envio à prefeitura.
+Integração com PDVs.
+Solução ideal para operação em supermercados, lojas de departamentos, etc., por permitir a validação da estadia do estacionamento diretamente nos caixas/PDV dos estabelecimentos comerciais.
