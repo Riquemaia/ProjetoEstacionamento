@@ -1,4 +1,4 @@
-Fonte:http://nepos.com.br/
+﻿Fonte:http://nepos.com.br/
 
 Módulo Concentrador.
 A solução permite centralizar, em um servidor denominado CONCENTRADOR, todas as informações das transações ocorridas nos estacionamentos participantes da integração. Esse servidor disponibiliza, via WebService, uma interface que possibilita a integração com sistema ERP do CONTRATANTE.
